@@ -35,3 +35,5 @@
 
 ;;make back-up file disabled
 (setq make-backup-files nil)
+
+;;new mode added below
