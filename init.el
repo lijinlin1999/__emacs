@@ -37,3 +37,8 @@
 (setq make-backup-files nil)
 
 ;;new mode added below
+
+;;org colorful
+
+(require 'org)
+(setq org-src-fontify-natively t)
